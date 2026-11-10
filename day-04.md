@@ -34,3 +34,14 @@ The complete home network map is shown below.
 ## Home Network Map
 
 ![Home Network Map](./Screenshot%202026-11-10%20143228.png)
+
+## Networking Terms
+
+### 1. IP Address
+An IP Address is a unique address used to identify a device on a network. It can change.
+
+### 2. Default Gateway
+A Default Gateway is usually a router that connects our local network to other networks, such as the internet.
+
+### 3. DNS Server
+A DNS Server translates domain names, such as google.com, into IP addresses.
