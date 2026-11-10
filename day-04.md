@@ -30,3 +30,7 @@ IP addresses of all connected devices:
 The complete home network map is shown below.
 
 <!-- Network map image will be added here -->
+
+## Home Network Map
+
+![Home Network Map](./Screenshot%202026-11-10%20143228.png)
