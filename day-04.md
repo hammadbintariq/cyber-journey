@@ -45,3 +45,7 @@ A Default Gateway is usually a router that connects our local network to other n
 
 ### 3. DNS Server
 A DNS Server translates domain names, such as google.com, into IP addresses.
+
+### Tracert Command
+The tracert command shows the path taken by data to reach its destination.
+It shows the number of hops (network devices/routers) between our computer and the destination.
