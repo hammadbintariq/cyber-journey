@@ -115,10 +115,16 @@ The WHOIS registrar and name server information could not be verified, so no unc
 - Learned the difference between passive and active reconnaissance.
 - Attempted WHOIS and DNS reconnaissance.
 
-- ## 9. Practical Screenshots / Proof
+## 9. Practical Screenshots / Proof
 
-![Nmap Scan](./screenshots/nmap-scanme.png)
+### 1. Nmap Scan — scanme.nmap.org
+
+![Nmap Scan Result](./screenshots/nmap-scanme.png)
+
+### 2. Local Server — Port 8000 ON
 
 ![Local Server ON](./screenshots/local-server-on.png)
+
+### 3. Local Server — Port 8000 OFF
 
 ![Local Server OFF](./screenshots/local-server-off.png)
