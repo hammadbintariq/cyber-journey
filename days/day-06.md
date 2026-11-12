@@ -119,12 +119,12 @@ The WHOIS registrar and name server information could not be verified, so no unc
 
 ### 1. Nmap Scan — scanme.nmap.org
 
-![Nmap Scan Result](./screenshots/nmap-scanme.png)
+![Nmap Scan Result](../assets/screenshots/nmap-scanme.png)
 
 ### 2. Local Server — Port 8000 ON
 
-![Local Server ON](./screenshots/local-server-on.png)
+![Local Server ON](../assets/screenshots/local-server-on.png)
 
 ### 3. Local Server — Port 8000 OFF
 
-![Local Server OFF](./screenshots/local-server-off.png)
+![Local Server OFF](../assets/screenshots/local-server-off.png)

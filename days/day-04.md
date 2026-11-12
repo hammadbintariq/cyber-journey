@@ -33,7 +33,7 @@ The complete home network map is shown below.
 
 ## Home Network Map
 
-![Home Network Map](./Screenshot%202026-11-10%20143228.png)
+![Home Network Map](../assets/screenshots/Screenshot%202026-11-10%20143228.png)
 
 ## Networking Terms
 

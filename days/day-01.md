@@ -6,7 +6,7 @@
 ## Screenshots
 
 ### Ubuntu Terminal
-![Ubuntu Terminal](Screenshot%202026-10-11%20111648.png)
+![Ubuntu Terminal](../assets/screenshots/Screenshot%202026-10-11%20111648.png)
 
 ### FakeBank Lab
-![FakeBank Lab](Screenshot%202026-10-11%20111819.png)
+![FakeBank Lab](../assets/screenshots/Screenshot%202026-10-11%20111819.png)

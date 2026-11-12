@@ -60,4 +60,4 @@ HTTPS uses TLS encryption to protect HTTP data. Therefore, the actual HTTP conte
 
 ## 6. Wireshark DNS Screenshot
 
-![Wireshark DNS Capture](./DNS-Packet-3829.png)
+![Wireshark DNS Capture](../assets/screenshots/DNS-Packet-3829.png)

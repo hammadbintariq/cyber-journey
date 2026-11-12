@@ -37,4 +37,4 @@ The script displays a greeting and the current date and time.
 Screenshot of the successful `hello.sh` output.
 ## 5. Screenshot
 
-[View Day 2 Script Output](https://github.com/hammadbintariq/cyber-journey/blob/main/Screenshot%202026-10-12%20154459.png)
+[View Day 2 Script Output](../assets/screenshots/Screenshot%202026-10-12%20154459.png)
